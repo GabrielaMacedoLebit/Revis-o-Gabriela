@@ -1,3 +1,8 @@
 body{
     background-color: rgba(189, 236, 161, 0.178);
 }
+ img{
+    width:50%;
+    display:block;
+    margim:auto;
+ }
